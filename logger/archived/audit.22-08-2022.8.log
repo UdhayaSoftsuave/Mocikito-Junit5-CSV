@@ -1,0 +1,2 @@
+22-08-2022 20:38:41.767 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.start - Tomcat started on port(s): 9090 (http) with context path ''
+22-08-2022 20:38:41.775 [main] INFO  com.example.logger.DemoApplication.logStarted - Started DemoApplication in 1.015 seconds (JVM running for 1.448)

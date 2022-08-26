@@ -1,0 +1,147 @@
+22-08-2022 20:11:59.756 [http-nio-9090-exec-8] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:11:59.893 [http-nio-9090-exec-9] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:11:59.893 [http-nio-9090-exec-9] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:11:59.893 [http-nio-9090-exec-9] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:12:00.214 [http-nio-9090-exec-10] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:12:00.215 [http-nio-9090-exec-10] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:12:00.215 [http-nio-9090-exec-10] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:12:00.381 [http-nio-9090-exec-1] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:12:00.381 [http-nio-9090-exec-1] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:12:00.381 [http-nio-9090-exec-1] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:12:01.075 [http-nio-9090-exec-2] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:12:01.075 [http-nio-9090-exec-2] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:12:01.075 [http-nio-9090-exec-2] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:12:01.271 [http-nio-9090-exec-3] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:12:01.271 [http-nio-9090-exec-3] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:12:01.271 [http-nio-9090-exec-3] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:12:01.438 [http-nio-9090-exec-4] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:12:01.438 [http-nio-9090-exec-4] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:12:01.438 [http-nio-9090-exec-4] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:12:01.590 [http-nio-9090-exec-5] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:12:01.591 [http-nio-9090-exec-5] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:12:01.591 [http-nio-9090-exec-5] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:12:01.790 [http-nio-9090-exec-6] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:12:01.790 [http-nio-9090-exec-6] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:12:01.790 [http-nio-9090-exec-6] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:13:28.579 [http-nio-9090-exec-9] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:13:28.579 [http-nio-9090-exec-9] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:13:28.579 [http-nio-9090-exec-9] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:13:28.731 [http-nio-9090-exec-10] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:13:28.731 [http-nio-9090-exec-10] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:13:28.731 [http-nio-9090-exec-10] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:13:28.893 [http-nio-9090-exec-1] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:13:28.893 [http-nio-9090-exec-1] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:13:28.893 [http-nio-9090-exec-1] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:13:29.028 [http-nio-9090-exec-2] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:13:29.028 [http-nio-9090-exec-2] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:13:29.028 [http-nio-9090-exec-2] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:13:29.182 [http-nio-9090-exec-3] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:13:29.182 [http-nio-9090-exec-3] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:13:29.182 [http-nio-9090-exec-3] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:13:29.290 [http-nio-9090-exec-4] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:13:29.291 [http-nio-9090-exec-4] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:13:29.291 [http-nio-9090-exec-4] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:13:29.419 [http-nio-9090-exec-5] INFO  com.example.logger.HomeController.printlogger - info logger
+22-08-2022 20:13:29.419 [http-nio-9090-exec-5] WARN  com.example.logger.HomeController.printlogger - warn logger
+22-08-2022 20:13:29.419 [http-nio-9090-exec-5] ERROR com.example.logger.HomeController.printlogger - error logger
+22-08-2022 20:38:36.613 [RMI TCP Connection(38)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+22-08-2022 20:38:36.623 [RMI TCP Connection(38)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat]
+22-08-2022 20:38:36.623 [RMI TCP Connection(38)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Destroying Spring FrameworkServlet 'dispatcherServlet'
+22-08-2022 20:38:36.626 [RMI TCP Connection(38)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+22-08-2022 20:38:36.627 [RMI TCP Connection(38)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-2] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+22-08-2022 20:38:36.627 [RMI TCP Connection(38)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-3] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+22-08-2022 20:38:36.628 [RMI TCP Connection(38)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-4] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+22-08-2022 20:38:36.628 [RMI TCP Connection(38)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-5] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+22-08-2022 20:38:36.628 [RMI TCP Connection(38)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-6] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+22-08-2022 20:38:36.628 [RMI TCP Connection(38)-127.0.0.1] WARN  o.a.c.loader.WebappClassLoaderBase.log - The web application [ROOT] appears to have started a thread named [logback-7] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+ java.base@17.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+ java.base@17.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.1/java.lang.Thread.run(Thread.java:833)
+22-08-2022 20:38:40.992 [main] INFO  com.example.logger.DemoApplication.logStarting - Starting DemoApplication using Java 17.0.1 on DESKTOP-PHBMTMU with PID 4408 (D:\Gwt\demo\target\classes started by softsuave in D:\Gwt\demo)
+22-08-2022 20:38:40.994 [main] INFO  com.example.logger.DemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+22-08-2022 20:38:41.489 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer.initialize - Tomcat initialized with port(s): 9090 (http)
+22-08-2022 20:38:41.495 [main] INFO  o.a.catalina.core.StandardService.log - Starting service [Tomcat]
+22-08-2022 20:38:41.495 [main] INFO  o.a.catalina.core.StandardEngine.log - Starting Servlet engine: [Apache Tomcat/9.0.65]
+22-08-2022 20:38:41.556 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring embedded WebApplicationContext
+22-08-2022 20:38:41.556 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext.prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 536 ms

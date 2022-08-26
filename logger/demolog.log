@@ -1,0 +1,2 @@
+23-08-2022 11:54:02.169 [RMI TCP Connection(924)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin.shutdown - Application shutdown requested.
+23-08-2022 11:54:02.181 [RMI TCP Connection(924)-127.0.0.1] INFO  o.a.catalina.core.StandardService.log - Stopping service [Tomcat]
